@@ -10,4 +10,4 @@ La base est composée de trois vecteurs ${e_1, e_2, e_3}$ respectant les relatio
 • $e_i e_j = -e_j e_i$ pour $i \neq j$
 
 Structure de l'algèbre
-Cette algèbre est de dimension 8, isomorphe aux quaternions complexes.
+Cette algèbre est de dimension 8.

@@ -1,0 +1,47 @@
+---
+layout: post
+title: "De Wolff à Lafrenière : L'Onde de Matière dans l'Espace de Clifford"
+---
+
+## 1. Analyse de l'Onde de Milo Wolff (Space Resonance)
+Milo Wolff définit l'électron comme une superposition d'ondes sphériques entrantes (IN) et sortantes (OUT). Dans le référentiel du laboratoire ($S$), une particule en mouvement à la vitesse $v = \beta c$ présente deux fréquences distinctes :
+
+* **Fréquence porteuse (Carrier) :** $f_{carrier} = \gamma f_0$. Elle correspond à la fréquence perçue par l'observateur (dilatation du temps).
+* **Fréquence de modulation (Momentum) :** $f_{mod} = \gamma \beta f_0$. Elle correspond à la fréquence de l'enveloppe de battement entre les ondes IN et OUT subissant un effet Doppler différentiel.
+
+$$f_{mod} = \frac{f_{OUT} - f_{IN}}{2} = \gamma \beta f_0 = \frac{c}{\lambda_{dB}}$$
+
+C'est la manifestation directe de la longueur d'onde de **De Broglie**.
+
+---
+
+## 2. L'Approche de Lafrenière : Déformation Physique dans l'Éther
+Contrairement à la vision purement observationnelle de la relativité standard, l'approche de Lafrenière (transposée en $Cl(0,3)$) décrit une déformation **physique** réelle de l'onde lors de son mouvement dans l'éther.
+
+### L'Onde en Mouvement
+En utilisant les transformations euclidiennes actives (Boosts de Clifford), l'onde stationnaire en mouvement s'exprime par :
+
+$$\Psi_{mouv}(x, t) = A \cdot \frac{\sin(K_0 [gx - \beta t])}{K_0 [gx - \beta t]} \cdot \exp[B_s \omega_0 (gt + \beta x)]$$
+
+Où :
+* **$g = 1/\gamma$** est le facteur de contraction.
+* **Contraction Spatiale :** L'argument $gx$ montre une densification physique de l'onde dans l'éther.
+* **Dilatation du Temps :** Le terme $gt$ montre que le temps propre de l'onde (son rythme interne) ralentit physiquement.
+
+---
+
+## 3. Synthèse Cosmologique : $t = a(t)$
+Une conséquence majeure de notre modèle est l'identification du temps scalaire $t$ au facteur d'échelle de l'Univers $a(t)$.
+
+Si l'on considère les coordonnées spatiales $r$ comme **comobiles**, alors la structure structurelle de l'électron (définie par son amplitude $A(r)$) **grandit physiquement** avec l'expansion de l'univers. 
+
+$$d_{phys} = a(t) \cdot r_{com} = t \cdot r_{com}$$
+
+L'électron n'est pas une bille immuable, mais une résonance de l'éther cellulaire qui participe à la croissance globale du cosmos.
+
+---
+
+## 4. La Masse comme Amplitude
+Dans cette vision, la **masse au repos $m$** n'est plus un nombre abstrait, mais l'**amplitude fondamentale** de l'onde de Wolff. Elle représente l'intensité de la structure de l'éther localement.
+
+> **Conclusion :** Le passage par $Cl(0,3)$ permet d'unifier la cinématique de Wolff (perçue) et la dynamique de Lafrenière (réelle) au sein d'un cadre géométrique unique où le temps est une dimension d'échelle.
